@@ -1,0 +1,15 @@
+D:\Apis\AppApiContacto\AppApi.Application\bin\Release\net6.0\AppApi.Application.deps.json
+D:\Apis\AppApiContacto\AppApi.Application\bin\Release\net6.0\AppApi.Application.dll
+D:\Apis\AppApiContacto\AppApi.Application\bin\Release\net6.0\AppApi.Application.pdb
+D:\Apis\AppApiContacto\AppApi.Application\bin\Release\net6.0\AppApi.Domain.dll
+D:\Apis\AppApiContacto\AppApi.Application\bin\Release\net6.0\AppApi.Domain.pdb
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\AppApi.Application.csproj.AssemblyReference.cache
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\AppApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\AppApi.Application.AssemblyInfoInputs.cache
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\AppApi.Application.AssemblyInfo.cs
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\AppApi.Application.csproj.CoreCompileInputs.cache
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\AppApi.Application.csproj.CopyComplete
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\AppApi.Application.dll
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\refint\AppApi.Application.dll
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\AppApi.Application.pdb
+D:\Apis\AppApiContacto\AppApi.Application\obj\Release\net6.0\ref\AppApi.Application.dll

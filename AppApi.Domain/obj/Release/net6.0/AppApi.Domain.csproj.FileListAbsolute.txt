@@ -1,0 +1,12 @@
+D:\Apis\AppApiContacto\AppApi.Domain\bin\Release\net6.0\AppApi.Domain.deps.json
+D:\Apis\AppApiContacto\AppApi.Domain\bin\Release\net6.0\AppApi.Domain.dll
+D:\Apis\AppApiContacto\AppApi.Domain\bin\Release\net6.0\AppApi.Domain.pdb
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\AppApi.Domain.csproj.AssemblyReference.cache
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\AppApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\AppApi.Domain.AssemblyInfoInputs.cache
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\AppApi.Domain.AssemblyInfo.cs
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\AppApi.Domain.csproj.CoreCompileInputs.cache
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\AppApi.Domain.dll
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\refint\AppApi.Domain.dll
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\AppApi.Domain.pdb
+D:\Apis\AppApiContacto\AppApi.Domain\obj\Release\net6.0\ref\AppApi.Domain.dll

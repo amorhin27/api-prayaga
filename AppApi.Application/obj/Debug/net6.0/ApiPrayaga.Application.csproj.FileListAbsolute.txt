@@ -1,0 +1,15 @@
+D:\ApiPrayaga\AppApi.Application\bin\Debug\net6.0\ApiPrayaga.Application.deps.json
+D:\ApiPrayaga\AppApi.Application\bin\Debug\net6.0\ApiPrayaga.Application.dll
+D:\ApiPrayaga\AppApi.Application\bin\Debug\net6.0\ApiPrayaga.Application.pdb
+D:\ApiPrayaga\AppApi.Application\bin\Debug\net6.0\ApiPrayaga.Domain.dll
+D:\ApiPrayaga\AppApi.Application\bin\Debug\net6.0\ApiPrayaga.Domain.pdb
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ApiPrayaga.Application.csproj.AssemblyReference.cache
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ApiPrayaga.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ApiPrayaga.Application.AssemblyInfoInputs.cache
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ApiPrayaga.Application.AssemblyInfo.cs
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ApiPrayaga.Application.csproj.CoreCompileInputs.cache
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ApiPrayaga.Application.csproj.CopyComplete
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ApiPrayaga.Application.dll
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\refint\ApiPrayaga.Application.dll
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ApiPrayaga.Application.pdb
+D:\ApiPrayaga\AppApi.Application\obj\Debug\net6.0\ref\ApiPrayaga.Application.dll

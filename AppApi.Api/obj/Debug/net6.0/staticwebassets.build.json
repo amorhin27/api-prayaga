@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "icYRqVFG4RFSdgWa3ju7fOP5jyAy55fizfZrjLFy7V0=",
+  "Source": "ApiPrayaga.Api",
+  "BasePath": "_content/ApiPrayaga.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
